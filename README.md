@@ -1,6 +1,3 @@
-# TP-7-JAXRS-
 
-
-
-https://github.com/user-attachments/assets/3d0b6dd0-60c2-4411-b704-0a614d7a1a2e
+https://github.com/user-attachments/assets/6efb1d69-1d4b-4ae1-912c-058a25d01363
 
